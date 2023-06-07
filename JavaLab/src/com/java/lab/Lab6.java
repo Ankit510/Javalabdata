@@ -1,3 +1,11 @@
+
+/*
+ * i/p: My Name Is Ankit
+
+o/p
+words: 4
+letter: 13
+ */
 package com.java.lab;
 
 public class Lab6 {
