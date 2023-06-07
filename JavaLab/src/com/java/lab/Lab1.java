@@ -1,3 +1,7 @@
+/*
+ * 1. How do you reverse a string in Java?
+ */
+
 package com.java.lab;
 
 import java.util.Scanner;

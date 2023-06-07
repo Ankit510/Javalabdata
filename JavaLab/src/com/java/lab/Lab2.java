@@ -1,3 +1,7 @@
+/*
+ * 2. How do you swap two numbers without using a third variable in Java?
+ */
+
 package com.java.lab;
 
 import java.util.Scanner;
