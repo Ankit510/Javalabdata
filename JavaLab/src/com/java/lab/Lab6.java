@@ -1,10 +1,9 @@
 
 /*
  * i/p: My Name Is Ankit
-
-o/p
-words: 4
-letter: 13
+ * o/p
+ * words: 4
+ * letter: 13
  */
 package com.java.lab;
 
