@@ -32,6 +32,6 @@ public class Lab6 {
 		for (int j = 0; j < str.length(); j++) {
 			count1 = str.length();
 		}
-		System.out.println("The String of letters number : " + count1);
+		System.out.println("Number of letters in a string : " + count1);
 	}
 }
