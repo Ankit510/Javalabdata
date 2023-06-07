@@ -1,3 +1,6 @@
+/*
+ * 5. How do you get the sum of all elements in an integer array in Java?
+ */
 package com.java.lab;
 
 import java.util.Scanner;
